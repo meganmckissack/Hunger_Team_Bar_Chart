@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+  padding-left: 100px;
+  background-color: #fbfaf0;
+}
+
+rect {
+  color:669776;
+}
+
+rect.highlight {
+  fill:
+}
